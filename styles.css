@@ -35,6 +35,11 @@ body {
     justify-content: flex-end;
     align-items: flex-end;
     box-shadow: 2px 2px;
+    overflow: hidden;
+}
+
+p {
+    margin: 0;
 }
 
 .buttons {
